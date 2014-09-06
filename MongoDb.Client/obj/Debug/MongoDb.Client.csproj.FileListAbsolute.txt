@@ -1,0 +1,14 @@
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDb.Client.exe.config
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDb.Client.exe
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDb.Client.pdb
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDB.Bson.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDB.Data.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDB.Driver.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDb.Models.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDB.Data.pdb
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDb.Models.pdb
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDB.Bson.xml
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\bin\Debug\MongoDB.Driver.xml
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\obj\Debug\MongoDb.Client.csprojResolveAssemblyReference.cache
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\obj\Debug\MongoDb.Client.exe
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDb.Client\obj\Debug\MongoDb.Client.pdb

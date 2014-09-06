@@ -1,0 +1,11 @@
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\obj\Debug\MongoDB.Data.csprojResolveAssemblyReference.cache
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDB.Data.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDB.Data.pdb
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDB.Bson.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDB.Driver.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDb.Models.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDb.Models.pdb
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDB.Bson.xml
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\bin\Debug\MongoDB.Driver.xml
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\obj\Debug\MongoDB.Data.dll
+D:\VS Projeckt\DataBase\MongoDbRepositoryPattern\MongoDB.Data\obj\Debug\MongoDB.Data.pdb
